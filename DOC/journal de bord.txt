@@ -1,0 +1,15 @@
+logos:
+-Logo barre de nav ()
+
+Jour 1 :
+
+Creation du cahier des charges
+Recuperer les pack d'offres
+
+Jour 2 :
+Trouver un template et selectionner les blocs utiles
+
+Jour 3 :
+creation du header /barre de nav
+page index
+footer
